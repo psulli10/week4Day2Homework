@@ -1,0 +1,36 @@
+.container{
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  /* background-color: #e0af35 */
+
+}
+
+/* .order{
+  display: flex;
+  justify-content: center;
+  align-items: stretch;
+} */
+
+body {
+  color: white;
+  font-family: sans-serif;
+  font: comic;
+  background-image: url(./pizza2.jpg);
+  font-size: 25px
+}
+
+nav {
+  display: flex;
+  justify-content: center;
+  color: white
+}
+
+.form-group {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  background-color: #e0af35
+}
